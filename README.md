@@ -1,1 +1,1 @@
-# C---make-Diamond
+# C++ -make-Diamond
