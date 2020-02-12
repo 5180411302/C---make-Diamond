@@ -1,1 +1,1 @@
-# C++ -make-Diamond
+Free Cpp library and Code example
